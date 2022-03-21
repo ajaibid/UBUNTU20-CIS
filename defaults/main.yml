@@ -347,7 +347,7 @@ ubtu20cis_ldap_server: false
 ubtu20cis_nfs_server: false
 ubtu20cis_dns_server: false
 ubtu20cis_vsftpd_server: false
-ubtu20cis_httpd_server: false
+ubtu20cis_httpd_server: true
 ubtu20cis_dovecot_server: false
 ubtu20cis_smb_server: false
 ubtu20cis_squid_server: false
