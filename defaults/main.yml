@@ -424,7 +424,7 @@ ubtu20cis_aide_cron:
 # THIS VARAIBLE SHOULD BE CHANGED AND INCORPORATED INTO VAULT
 # THIS VALUE IS WHAT THE ROOT PW WILL BECOME!!!!!!!!
 # HAVING THAT PW EXPOSED IN RAW TEXT IS NOT SECURE!!!!
-ubtu20cis_root_pw: "Password1"
+ubtu20cis_root_pw: "K0piCangk1r.Ter-Balik,90"
 
 # Control 1.8.2
 # This will be the motd banner must not contain the below items in order to be compliant with Ubuntu 20 CIS
@@ -587,8 +587,8 @@ ubtu20cis_sshd:
     login_grace_time: 60
     max_sessions: 4
     # WARNING: make sure you understand the precedence when working with these values!!
-    allow_users: "vagrant ubuntu"
-    allow_groups: "vagrant ubuntu"
+    allow_users: "ajaib"
+    allow_groups: "ajaib"
     # deny_users:
     # deny_groups:
 
